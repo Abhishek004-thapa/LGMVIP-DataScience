@@ -1,6 +1,6 @@
 # LGMVIP INTERN PROJECTS ON DataScience
 
-# Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
+# Task1-- Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
 ### Algorithms Used in this project:
 
     1) Logistic Regression   
@@ -9,3 +9,6 @@
     4) Naive Bayesian Classifier    
     5) Decision Tree  
     6) Random Forest
+
+
+## Task2 -- On going
