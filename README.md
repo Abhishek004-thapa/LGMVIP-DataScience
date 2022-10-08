@@ -11,4 +11,4 @@
     6) Random Forest
 
 
-## Task2 -- On going
+## Task2 --Stock Market Prediction And Forecasting Using Stacked LSTM
