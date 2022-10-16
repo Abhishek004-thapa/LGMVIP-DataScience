@@ -10,6 +10,7 @@
         c) song_info.csv      -->  Used Attributes:  song_id, name(song_name)
         
    ○ Merging above tables with mentioned attributes, DataFrame `main_df` is created.
+   
    ○ Appending corresponding values of genre_ids, artist_name, composer & lyricist , new attribute `song_details` is created which is used for the calculation of Cosine       Similarities
             
 ### `STEPS : `
@@ -21,3 +22,15 @@
     5) Constructing Content Based Recommendation System.
     6) Making Recommendation of Songs to Users.
     7) Acknowledgement and References
+    
+    
+# I' ve uploaded Presentation video of this on my YOUTUBE CHANNEL--> 64bitCODING
+
+videolink --> will be uploaded soon.
+
+## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
+### Your one like gives us MOTIVATION.
+
+### CONTACT ME ON:
+
+linkedin --> https://www.linkedin.com/in/abhishek-thapa-b9a733199/
