@@ -4,10 +4,10 @@
 
 ## `Dataset from :` https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
-  ### Files Used:          '### Used Attributes:
-        a) train.csv         a) msno(user_id), song_id
-        b) song.csv          b) song_id, genre_ids, artist_name, composer, lyricist
-        c) song_info.csv     c) song_id, name(song_name)
+  ### Files Used:            ### Used Attributes:
+        a) train.csv             a) msno(user_id), song_id
+        b) song.csv              b) song_id, genre_ids, artist_name, composer, lyricist
+        c) song_info.csv         c) song_id, name(song_name)
         
    ○ Merging above tables with mentioned attributes, DataFrame `main_df` is created.
    ○ Appending corresponding values of genre_ids, artist_name, composer & lyricist , new attribute `song_details` is created which is used for the calculation of Cosine       Similarities
