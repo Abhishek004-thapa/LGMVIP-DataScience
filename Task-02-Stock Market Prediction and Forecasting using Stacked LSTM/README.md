@@ -1,10 +1,23 @@
+## This project took lots of effort. Don't forget to tap `STAR`⭐ on top-right corner.
+
+# Stock Market Prediction and Forecasting using Stacked LSTM - UNIVARIATE ANALYSIS
+
+## `Dataset from :` https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+   ### Files Used: `Directly From URL`.
+    
 ## `Abstract :`
 
 This project focuses on techniques and tools for handling Time Series Datasets. Main aim of this project is to make Stock Market Prediction and Forecasting using Stacked LSTM. 
 
-Long short-term memory (LSTM) is an artificial neural network used in the fields of artificial intelligence and deep learning.
+⚫ Time series data is data that is recorded over consistent intervals of time. 
 
-It is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems. LSTM has feedback connections, i.e., it is capable of processing the entire sequence of data, apart from single data points such as images.
+⚫ Time Series Datasets consist of more than one attributes depending on DateTime attribute of our dataset.
+
+⚫ Long short-term memory (LSTM) is an artificial neural network used in the fields of artificial intelligence and deep learning.
+
+        It is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems. 
+        LSTM has feedback connections, i.e., it is capable of processing the entire sequence of data, apart from single data points such as images.
 
 ### `Two approaches for solving this problem`
 
