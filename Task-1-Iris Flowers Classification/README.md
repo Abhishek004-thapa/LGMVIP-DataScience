@@ -1,4 +1,4 @@
-## This project took lots of effort. Don't forget to tap `STAR`⭐ on to-right corner.
+## This project took lots of effort. Don't forget to tap `STAR`⭐ on top-right corner.
 
 # Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
 
