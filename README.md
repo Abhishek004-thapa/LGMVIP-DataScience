@@ -1,6 +1,9 @@
 # LGMVIP INTERN PROJECTS ON DataScience
 
-# Task1-- Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
+# Task no. 01 -- Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
+
+### Dataset: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+
 ### Algorithms Used in this project:
 
     1) Logistic Regression   
@@ -11,7 +14,9 @@
     6) Random Forest
 
 
-## Task2 --Stock Market Prediction And Forecasting Using Stacked LSTM - Univariate Analysis Approach
+# Task no. 02 --Stock Market Prediction And Forecasting Using Stacked LSTM - Univariate Analysis Approach
+
+### Dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 ### `STEPS : `
 
@@ -26,4 +31,15 @@
     9) Forecasting for future 30 days.
     10) Acknowledgement and References
 
+# Task no. 03 -- Music Recommendation System-ContentBasedApproach
 
+## Dataset:  https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+### `STEPS : `
+
+    1) Importing Libraries and Loading datasets
+    2) Exploratoty Data Analysis(EDA) & Visualization
+    3) Data Preprocessing & Preparing Main datasets.
+    4) Computing Similarities betn Songs using Cosine_similarities.
+    5) Constructing Content Based Recommendation System.
+    6) Making Recommendation of Songs to Users.
+    7) Acknowledgement and References
