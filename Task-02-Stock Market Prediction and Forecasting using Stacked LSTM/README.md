@@ -49,6 +49,7 @@ and Forecasting using Stacked LSTM.
 videolink --> Part-1 (Step-1 to Step-5) : https://www.youtube.com/watch?v=Hxu-4l4OgPQ&t=45s 
 
               Part-2 (Step-6 to Step-10) : https://www.youtube.com/watch?v=64Vtl-yF6FM&t=887s
+              
 
 ## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
 ### Your one like gives us MOTIVATION.
