@@ -1,19 +1,14 @@
 # Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
 
 ## `Dataset from :` https://www.kaggle.com/datasets/arshid/iris-flower-dataset
-
-### Algorithms Used in this project:
-
-    1) Logistic Regression   
-    2) K-Nearest Neighbours   
-    3) Support Vector Classifier(SVC)    
-    4) Naive Bayesian Classifier    
-    5) Decision Tree  
-    6) Random Forest
+ 
+ Files Used: IRIS.csv
 
 ## `Abstract :` 
 This project is based on multiclass classification problems which is accomplished using following
 various machine learning algorithms:
+
+### Algorithms Used in this project:
 
     1) Logistic Regression   
     2) K-Nearest Neighbours   
@@ -27,6 +22,44 @@ various machine learning algorithms:
     i) Iris Setosa
     ii) Iris Verginica
     iii) Iris Versicolor
+    
 are classified based on the `sepal and petal's length and width`
 
 <img src="iris-family.png"/>
+Image source == https://gadictos.com/wp-content/uploads/2019/03/iris-machinelearning.png
+
+## `STEPS: `
+
+  1) Importing required important libraries.
+  2) Loading dataset.
+  3) Data Preprocessing -- Handling missing and noisy data.
+  4)  Exploring and Analysing data.
+      
+      i) Histograms -- Feature's Distribution Analysis of Iris Species
+      ii) Scatter Plot -- a) Length vs Width of Sepal
+                          b) Length vs Width of Petal
+                          c) Sepal Length vs Petal Length
+                          d) Sepal Width vs Petal Width
+      iii) Correlation Matrix and HeatMap
+      iv) Box Plot
+      v) PairPlot
+      
+   5)  Data Spliting, Normalization, Standardization, Encoding(Handling non-numeric data)
+   6)  Preparing Training & Test Data and Fitting to the model -- RandomForstClassifier
+   7)  Evaluating the model -- Metrics Used:
+                                   a) `Classification Report`
+                                   b) `Confusion Matrix`
+                                   c) `Accuracy Score`  
+   8) Making Prediction on unseen data.
+   9) Improving our model -- i)`Changing n_estimator hyperparameter`
+                             ii) `Changing seed() parameters`
+   10) Save a Model and Load it using Pickel.  
+   11) Trying other Classification Algorithms:
+
+                            i) `LogisticRegression`
+                            ii) `KNeighborsClassifier`
+                            iii) `SVC`
+                            iv) `DecisionTreeClassifier`
+                            v) `RandomForestClassifier`
+                            vi) `GaussianNB`                              
+                                   
