@@ -33,6 +33,22 @@
     9) Forecasting for future 30 days.
     10) Acknowledgement and References
 
+## Uploaded Presentation video of this on my YOUTUBE CHANNEL--> 64bitCODING
+
+videolink -->
+Task no 01: https://www.youtube.com/watch?v=nNd8MF_g2Do
+Task no 02:
+  Part 01 : https://www.youtube.com/watch?v=Hxu-4l4OgPQ&t=45s
+  Part 02 : https://www.youtube.com/watch?v=64Vtl-yF6FM&t=887s
+Task no 03: PENDING....
+  
+
+## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
+### Your one like gives us MOTIVATION.
+
+### CONTACT ME ON:
+
+linkedin --> https://www.linkedin.com/in/abhishek-thapa-b9a733199/
 # Task no. 03 -- Music Recommendation System-ContentBasedApproach
 
 ## Datasets:  https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
