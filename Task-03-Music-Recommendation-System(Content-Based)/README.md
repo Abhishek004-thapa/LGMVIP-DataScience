@@ -16,7 +16,7 @@
 ### `STEPS : `
 
     1) Importing Libraries and Loading datasets
-    2) Exploratoty Data Analysis(EDA) & Visualization
+    2) Exploratoty Data Analysis(EDA) & Visualization -- BarDiagram of Top 7 : Genre_IDs vs their Frequency
     3) Data Preprocessing & Preparing Main datasets.
     4) Computing Similarities betn Songs using Cosine_similarities.
     5) Constructing Content Based Recommendation System.
