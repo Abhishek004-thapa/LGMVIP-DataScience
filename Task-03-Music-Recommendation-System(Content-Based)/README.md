@@ -29,7 +29,7 @@
 videolink --> will be uploaded soon.
 
 ## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
-### Your one like gives us MOTIVATION.
+### Your one LIKE 👍 gives us MOTIVATION.
 
 ### CONTACT ME ON:
 
