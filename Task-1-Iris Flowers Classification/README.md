@@ -65,7 +65,7 @@ Image source == https://gadictos.com/wp-content/uploads/2019/03/iris-machinelear
                             v) `RandomForestClassifier`
                             vi) `GaussianNB`                              
                                    
-# I' ve made and uploaded Presentation video of this on my YOUTUBE CHANNEL :yt: --> 64bitCODING
+# I' ve uploaded Presentation video of this on my YOUTUBE CHANNEL--> 64bitCODING
 
 videolink --> https://www.youtube.com/watch?v=nNd8MF_g2Do
 
