@@ -45,15 +45,17 @@ and Forecasting using Stacked LSTM.
         10) Acknowledgement and References.
 
 
-# I' ve uploaded Presentation video of this on my YOUTUBE CHANNEL--> 64bitCODING
+## Uploaded Presentation video of this on my YOUTUBE CHANNEL --> 64bitCODING
 
-videolink --> Part-1 (Step-1 to Step-5) : https://www.youtube.com/watch?v=Hxu-4l4OgPQ&t=45s 
+videolinks --> 
 
-              Part-2 (Step-6 to Step-10) : https://www.youtube.com/watch?v=64Vtl-yF6FM&t=887s
+Part-1 (Step-1 to Step-5) : https://www.youtube.com/watch?v=Hxu-4l4OgPQ&t=45s 
+
+Part-2 (Step-6 to Step-10) : https://www.youtube.com/watch?v=64Vtl-yF6FM&t=887s
               
 
 ## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
-### Your one like gives us MOTIVATION.
+### Your one LIKE 👍 gives us MOTIVATION.
 
 ### CONTACT ME ON:
 
