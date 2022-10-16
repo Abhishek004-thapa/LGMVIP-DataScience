@@ -24,7 +24,7 @@
     7) Acknowledgement and References
     
     
-# I' ve uploaded Presentation video of this on my YOUTUBE CHANNEL--> 64bitCODING
+# Presentation video of this on my YOUTUBE CHANNEL--> 64bitCODING
 
 videolink --> will be uploaded soon.
 
