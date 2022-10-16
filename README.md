@@ -60,10 +60,10 @@ Task no 01: https://www.youtube.com/watch?v=nNd8MF_g2Do
 
 Task no 02:
 
-  Part 01 : https://www.youtube.com/watch?v=Hxu-4l4OgPQ&t=45s
-  
-  Part 02 : https://www.youtube.com/watch?v=64Vtl-yF6FM&t=887s
-  
+      Part 01 : https://www.youtube.com/watch?v=Hxu-4l4OgPQ&t=45s
+
+      Part 02 : https://www.youtube.com/watch?v=64Vtl-yF6FM&t=887s
+
 Task no 03: PENDING....
   
 
