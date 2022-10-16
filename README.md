@@ -2,7 +2,7 @@
 
 # Task no. 01 -- Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
 
-### Dataset: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+### Datasets: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 ### Algorithms Used in this project:
 
@@ -16,7 +16,7 @@
 
 # Task no. 02 --Stock Market Prediction And Forecasting Using Stacked LSTM - Univariate Analysis Approach
 
-### Dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+### Datasets: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 ### `STEPS : `
 
@@ -33,7 +33,13 @@
 
 # Task no. 03 -- Music Recommendation System-ContentBasedApproach
 
-## Dataset:  https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+## Datasets:  https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+
+   ### Files Used:
+        a) train.csv
+        b) song.csv
+        c) song_info.csv
+            
 ### `STEPS : `
 
     1) Importing Libraries and Loading datasets
