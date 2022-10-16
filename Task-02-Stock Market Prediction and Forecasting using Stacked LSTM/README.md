@@ -23,10 +23,11 @@ and Forecasting using Stacked LSTM.
 
 ### `Two approaches for solving this problem`
 
-    i) Univariate Time Series Analysis : univariate time series model here means that there are only one dependent variable on the time series model
+    i) Univariate Time Series Analysis : univariate time series model here means that there are only one dependent variable on 
+        the time series model
 
-    ii) Multivariate Time Series Analysis: it consist of more than one time-dependent variable and each variable depends not only on its past values
-        but also has some dependency on other variables.
+    ii) Multivariate Time Series Analysis: it consist of more than one time-dependent variable and each variable depends not only 
+        on its past values but also has some dependency on other variables.
 
 ## I've used `Univariate Analysis Approach` Choosing 'Closing Price' Value.
 
