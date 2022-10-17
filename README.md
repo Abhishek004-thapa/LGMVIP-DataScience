@@ -2,6 +2,8 @@
 
 # LGMVIP INTERN PROJECTS ON DataScience
 
+# `BEGINNER-LEVEL-TASK:`
+
 # Task no. 01 -- Iris-Flower-Classification Using Various Machine Learning Algorithms along with detailed Documentation.
 
 ### Datasets: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
@@ -52,6 +54,31 @@
     6) Making Recommendation of Songs to Users.
     7) Acknowledgement and References
     
+
+# Task no 03 -- IMAGE TO PENCIL SKETCH USING PYTHON - OpenCV
+
+This project is one of the simplest python project. Image can be converted into Pencil Sketch with just 10 to 12 lines of Codes. So, Just give your hour with a cup of coffee to explore this project.
+It is based on Image Manipulation using Python Library known as OpenCV i.e. Open Computer Vision. OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
+
+   ### `STEPS`:
+      
+      1) Importing Libraries cv2 & matplotlib.pyplot
+      2) Loading Original Image.
+      3) Converting BGR into Gray Scale Image.
+      4) Inverting Gray Scaled Image.
+      5) Bluring Inverted Image.
+      6) Inverting Blurred Image.
+      7) Generating Pencil Sketch Image.
+      8) Saving and loading image.
+      9) Visualization  in a Single Frame
+ 
+
+### `Image used for sketch in this project :`
+
+It is of Shrinkhala Khatiwada who is a Nepalese model and Miss Nepal 2018.
+She represented Nepal in Miss World 2018.   
+
+
 ## Uploaded Presentation video of this on my YOUTUBE CHANNEL--> 64bitCODING
 
 videolinks -->
@@ -64,13 +91,12 @@ Task no 02:
 
   Part 02 : https://www.youtube.com/watch?v=64Vtl-yF6FM&t=887s
 
-Task no 03: PENDING....
-  
-
 ## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
 ### Your one LIKE 👍 gives us MOTIVATION.
 
 ### CONTACT ME ON:
 
 linkedin --> https://www.linkedin.com/in/abhishek-thapa-b9a733199/
+
+
 
