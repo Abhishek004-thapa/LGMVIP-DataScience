@@ -22,12 +22,14 @@ This project is based on Image Manipulation using Python Library known as OpenCV
 
 ### `Image used for sketch in this project :`
 
-It is of Shrinkhala Khatiwada who is a Nepalese model and Miss Nepal World 2018.
+It is of Shrinkhala Khatiwada who is a Nepalese model and Miss Nepal 2018.
 She represented Nepal in Miss World 2018.
     
 <div>
   <img src="./images/shrinkhala.jpg" width="500"/>
 </div>
+
+Image from : https://image.winudf.com/v2/image1/Y29tLnNocmlua2hhbGFfa2hhdGl3YWRhLnNocmlua2hhbGFraGF0aXdhZGFfc2NyZWVuXzBfMTU0NTMyMDUxNF8wOTE/screen-0.jpg?fakeurl=1&type=.webp
 
 ## Uploaded Presentation video of this on my YOUTUBE CHANNEL --> 64bitCODING
 
