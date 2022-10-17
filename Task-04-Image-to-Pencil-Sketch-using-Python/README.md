@@ -2,6 +2,8 @@
 
 # IMAGE TO PENCIL SKETCH USING PYTHON - OpenCV
 
+This project is one of the simplest python project. Image can be converted into Pencil Sketch with just 10 to 12 lines of Codes. So, Just give your hour with a cup of coffee to explore this project.
+
 ## `Abstract :` 
 
 This project is based on Image Manipulation using Python Library known as OpenCV i.e. Open Computer Vision. OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
