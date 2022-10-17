@@ -1,4 +1,4 @@
-### This Project took lots of time and hard labor. Don't Forget to Put Star  if you like my projects.
+## This project took lots of effort. Don't forget to tap `STAR`⭐ on top-right corner.
 
 # LGMVIP INTERN PROJECTS ON DataScience
 
